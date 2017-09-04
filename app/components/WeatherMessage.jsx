@@ -6,5 +6,4 @@ var WeatherMessage = ({temp, city}) => {
     );
 }
 
-// ovo mozemo smatrati kao retrun u funkcijama
 module.exports = WeatherMessage;
